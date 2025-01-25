@@ -61,5 +61,5 @@ Welcome to this comprehensive guide on using Git and GitHub! Below, you'll find 
 
 ---
 
-This README provides a detailed walkthrough of Git commands with accompanying icons for clarity. Each section explains its functionality, making it easy for beginners to follow and understand Git and GitHub operations.
+## This README provides a detailed walkthrough of Git commands with accompanying icons for clarity. Each section explains its functionality, making it easy for beginners to follow and understand Git and GitHub operations. :blush:
 
